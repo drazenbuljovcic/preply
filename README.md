@@ -12,7 +12,7 @@ See detailed usage guide on
 
 ## skillE - AI Native Agent System
 
-skillE is an AI Native Agentic Engineering system that provides specialized expertise for web performance analysis and optimization. https://agentskills.io/home
+skillE is an AI Native Agentic Engineering system that provides specialized expertise for web performance analysis and optimization. (https://agentskills.io/home)
 
 <img src="./Screenshot 2026-02-21 at 18.26.25.png" alt="Opencode" />
 
@@ -48,6 +48,9 @@ Once opencode is installed, you can interact with skillE:
 
 ```bash
 opencode
+
+$ /web_performance <Prompt>
+
 ```
 
 Then describe what you need help with, for example:
