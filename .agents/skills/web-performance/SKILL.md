@@ -15,4 +15,4 @@ Got it. Link all skill calls related to web performance to [WEB_PERFORMANCE.expe
 
 ---
 
-Use procuded audit based on `.agents/skills/web-performance/skillE/web_performance/preply_lightouse.html` in `WEB_PERFORANCE.audit.md`
+Use procuded audit based on `.agents/skills/web-performance/skillE/preply_lightouse.html` in `WEB_PERFORANCE.audit.md`
