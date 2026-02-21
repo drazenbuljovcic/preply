@@ -9,8 +9,6 @@ Write output of the retrieval of website information to an WEB_PERFORANCE.expert
 
 ---
 
-Got it. Link all skill calls related to web performance to [WEB_PERFORMANCE.expert.md](./skillE/WEB_PERFORMANCE.expert.md)
+Got it. Link all skill calls related to web performance to [WEB_PERFORMANCE.expert.md](./skillE/web_performance/WEB_PERFORMANCE.expert.md)
 
 ---
-
-Glossary:
