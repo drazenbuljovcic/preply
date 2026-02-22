@@ -69,8 +69,9 @@ Then describe what you need help with, for example:
 │       ├── SKILL.md           # Skill definition
 │       └── skillE/
 │           └── web_performance/
+│               ├── preply_lighthouse.html
+│               ├── preply_dev_tools_performance.json
 │               ├── WEB_PERFORMANCE.expert.md    # Expert knowledge base
-│               └── web_performance.audit.md      #
 ```
 
 Audit results: [here](./.agents/skills/web-performance/skillE/web_performance/web_performance.audit.md)
