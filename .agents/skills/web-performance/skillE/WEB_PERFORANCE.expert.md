@@ -1,7 +1,7 @@
 # Preply Web Performance Audit
 
 Human written summary.
-See deployed on
+See deployed [here](https://zealous-eagle-e27.notion.site/Preply-30ecbccaa2ee807fbe5ac5dd20fb6731?source=copy_link)
 
 ## Performance Audit
 
@@ -47,10 +47,6 @@ LCP is looking acceptable (~1.5s) on stable networks. But throttling affects the
 | LCP  | Largest Contentful Paint |
 
 ---
-
-Update: 17:41 Sat 21. Feb 2026
-
-Find the [web_performance.audit.md](./web_performance.audit.md) here.
 
 Provide reasoning for questions based on the audit. Your role is to guide developers to be successful.
 Provide helpful recommendations for the future.
