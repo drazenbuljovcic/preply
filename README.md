@@ -26,7 +26,7 @@ If you're unfamiliar with AI Native Agentic Engineering, follow these steps to g
 
 #### 1. Install opencode (Recommended AI Harness)
 
-opencode is an interactive CLI tool that helps you work with AI Native Agentic Systems like skillE. It provides a smooth onboarding experience for developers new to agentic engineering.
+opencode is an interactive CLI tool that helps you work with AI Native Agentic Systems like skillE. It provides a smooth onboarding experience for developers new to agentic engineering. [https://opencode.ai/](https://opencode.ai/)
 
 ```bash
 # Install opencode via npm
@@ -73,8 +73,6 @@ Then describe what you need help with, for example:
 │               ├── preply_dev_tools_performance.json
 │               ├── WEB_PERFORMANCE.expert.md    # Expert knowledge base
 ```
-
-Audit results: [here](./.agents/skills/web-performance/skillE/web_performance/web_performance.audit.md)
 
 ### Tips for Success
 
